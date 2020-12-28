@@ -13,7 +13,7 @@
 {"city" : "Austin", 	"mascot" : "Stars",		"short" : "AUS", 	"homeText" : "FFFFFF",	"homeMain" : "D50A0A",	"homeSecondary" : "34302B",	"awayText" : "D50A0A",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF7900"},
 {"city" : "Tucson",  	"mascot" : "Ocelots",	  	"short" : "TUC", 	"homeText" : "FFFFFF",	"homeMain" : "101820",	"homeSecondary" : "D7A22A",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "006778"},
 {"city" : "Colorado",    	"mascot" : "Hawks",			"short" : "COL", 	"homeText" : "FFFFFF",	"homeMain" : "0B2265",	"homeSecondary" : "A71930",	"awayText" : "0B2265",	"awayMain" : "FFFFFF",  "awaySecondary" : "A71930"},
-{"city" : "Utah",    "mascot" : "Raptors",		"short" : "UTAH", 	"homeText" : "FFFFFF",	"homeMain" : "004C54",	"homeSecondary" : "000000",	"awayText" : "004C54",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Utah",    "mascot" : "Raptors",		"short" : "UTA", 	"homeText" : "FFFFFF",	"homeMain" : "004C54",	"homeSecondary" : "000000",	"awayText" : "004C54",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Albuquerque",       	"mascot" : "Dukes",		"short" : "ABQ", 	"homeText" : "FFFFFF",	"homeMain" : "773141",	"homeSecondary" : "FFB612",	"awayText" : "773141",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB612"},
 {"city" : "Memphis",    	"mascot" : "Blues",	  	"short" : "MEM", 	"homeText" : "FFFFFF",	"homeMain" : "002244",	"homeSecondary" : "4b92db",	"awayText" : "002244",	"awayMain" : "FFFFFF",  "awaySecondary" : "4b92db"},
 {"city" : "Greensboro",     	"mascot" : "Generals",		"short" : "GRN", 	"homeText" : "FFFFFF",	"homeMain" : "125740",	"homeSecondary" : "FFFFFF",	"awayText" : "125740",	"awayMain" : "FFFFFF",  "awaySecondary" : "125740"},
