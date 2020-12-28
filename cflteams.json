@@ -3,7 +3,7 @@
 {"city" : "Calgary",   	"mascot" : "Stampeders",		"short" : "CAL", 	"homeText" : "FFFFFF",	"homeMain" : "c42127",	"homeSecondary" : "000000",	"awayText" : "c42127",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Saskatchewan",     	"mascot" : "Roughriders",			"short" : "SAS", 	"homeText" : "FFFFFF",	"homeMain" : "006241",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "006241"},
 {"city" : "Winnipeg",   	"mascot" : "Blue Bombers",	    "short" : "WIN", 	"homeText" : "FFFFFF",	"homeMain" : "002f87",	"homeSecondary" : "fed02a",	"awayText" : "002f87",	"awayMain" : "FFFFFF",  "awaySecondary" : "fed02a"},
-{"city" : "BC",  		"mascot" : "Lions",	    "short" : "BC", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "C83803",	"awayText" : "000000    ",	"awayMain" : "FFFFFF",  "awaySecondary" : "C83803"},
+{"city" : "BC",  		"mascot" : "Lions",	    "short" : "BC", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "C83803",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C83803"},
 {"city" : "Portland",    	"mascot" : "Loggers",	    	"short" : "POR", 	"homeText" : "FFFFFF",	"homeMain" : "3c675c",	"homeSecondary" : "FFFFFF",	"awayText" : "3c675c",	"awayMain" : "FFFFFF",  "awaySecondary" : "3c675c"},
 {"city" : "Sacramento",      	"mascot" : "Grizzlies",		"short" : "SAC", 	"homeText" : "FFFFFF",	"homeMain" : "e31837",	"homeSecondary" : "203731",	"awayText" : "e31837",	"awayMain" : "FFFFFF",  "awaySecondary" : "203731"},
 {"city" : "San Diego",  	"mascot" : "Stealth",		"short" : "SD", 	"homeText" : "a5acaf",	"homeMain" : "000000",	"homeSecondary" : "a5acaf",	"awayText" : "000000",	"awayMain" : "a5acaf",  "awaySecondary" : "000000"},
